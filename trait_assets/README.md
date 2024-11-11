@@ -4,7 +4,7 @@
 
 2. Run the script
 ```
-./generate_relay_qr.sh
+./generate_qr.sh
 ```
 
 3. QR codes will be generated in the `trait_assets` folder.
