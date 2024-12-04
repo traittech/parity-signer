@@ -136,7 +136,7 @@ fn default_network_info() -> [DefaultNetworkInfo; 1] {
                 "1117c62f5da0a0ffd855ba9bd5fa7f8ca14200c2163dedc2de36d8f549915ce2",
             )
             .expect("known value"),
-            logo: String::from("kusama"),
+            logo: String::from("trait"),
             name: String::from("trait-asset-hub-runtime"),
             order: 1,
             path_id: String::from("//trait-asset-hub-runtime"),
