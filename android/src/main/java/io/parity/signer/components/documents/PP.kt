@@ -44,231 +44,224 @@ fun PpText(modifier: Modifier = Modifier) {
 		modifier = modifier,
 		content =
 		"""
-# Privacy Policy
+**Privacy Policy** 
 
-Parity Technologies Limited (“**We**”; “**us**”; or “**our**”) are committed to protecting and respecting your privacy.
+Last updated: 3 November 2023 
 
-This policy (together with our terms of use on our websites [https://parity.io](https://parity.io), [https://paritytech.io](https://paritytech.io) and [https://polkadot.io](https://polkadot.io) (the “**Sites**“) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+TRAIT TECH PTE. LTD. (“**Trait Tech**”, “**we**”, “**our**”, “**us**”) receives, collects, stores, and manages user personal data according to the following Privacy Policy. We take pride in treating our users’ privacy the way we would like to be treated ourselves. We make sure we comply with the applicable personal data protection laws and regulations. 
 
-## What data do we collect from you?
+By visiting our website https\://trait.tech/ (“**Website**”), and/or sharing any personal information as described below, and/or using any of Trait Tech’s products and services (the “**Services**”), you agree to the terms of this Privacy Policy. 
 
-The Ethereum and Substrate based blockchain clients written in the programming language Rust known as Parity does not collect information from you, however any information you publish onto a blockchain like Ethereum is public by design.
+**1. Data Collected** 
 
-If you go to our Sites or utilise other services, we may collect and process the following personal data about you:
+1.1 **Data that you voluntarily provide us with:** 
 
-- **Information you give us**. This is information about you that you give us by filling in forms on our Sites, filling in forms on the sites of third party vendors providing us with a service, or by corresponding with us by phone, e-mail or otherwise. It includes information you provide when you agree to our contributors license agreement (“**CLA**”), apply to attend one of the events that we host, attend one of the events that we host, apply for a job on our Sites, ask to receive our newsletter and when you report a problem with our Sites. The information you give us may include your name, address, e-mail address and phone number and job application information (e.g. your CV, education data, and picture).
+1.1.1 You may provide us with your personal data in a number of ways, including, without limitation, when you sign up for and use the Services; have previously provided us with personal information prior to this Privacy Policy or last updates coming into effect; make any payment for the Services; subscribe to any alerts, information releases, news, newsletters, updates and media releases; complete and submit any forms to us; post any content on or through the Website; contact us directly in person or via any medium including but not limited to by mail, telephone, social media and commercial electronic messages; communicate with us for any matters and interact with or browse the Website generally. 
 
-- **Information we collect about you**. With regard to each of your visits to our Sites we may automatically collect the following information:
-  - technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, browser type and version, and versions, operating system and platform; and
-  - information about your visit, including the full Uniform Resource Locators (URL), page response times and download errors.
+1.1.2 Personal data that may be provided by you includes, but is not limited to: 1) contact information such as your full name, current and valid email address; 2) personal data for KYC and KYB checks; 
 
-- **Information we receive from other sources**. This is information we receive about you if you use any of the other websites we operate or the other services we provide or, to the extent permitted by law, publicly accessible information about you on e.g. business social media. We are working closely with third parties (including, for example, recruitment services providers, and event organisation service providers and event partners). We will notify you when we receive information about you from them and the purposes for which we intend to use that information.
+3\) account password; 
 
-## Cookies
+4\) physical address; 
 
-Our Sites uses cookies to distinguish you from other users of our Sites. This helps us to provide you with a good experience when you browse our Sites and also allows us to improve our Sites. For detailed information on the cookies we use and the purposes for which we use them see our “**Cookie Policy**” below.
-## For what purposes do we use your data and what is the legal basis for this use?
+5\) phone number; 
 
-We may use information held about you in the following ways and relying on the following legal bases:
+6\) billing information and purchase history; 
 
-  As required by Parity to conduct our business and pursue our legitimate interests, in particular:
-  - to notify you about changes to our service;
-  - to ensure that content from our Sites are presented in the most effective manner for you and for your computer;
-  - to administer our Sites and for internal operations, including troubleshooting and statistical purposes;
-  - to improve our Sites to ensure that content is presented in the most effective manner for you and for your computer;
-  - to allow you to participate in interactive features of our service, when you choose to do so;
-  - as part of our efforts to keep our Sites safe and secure;
-  - to use information you provide to investigate any complaints received from you or from others, about our Sites or our products or services;
-  - to assess your eligibility for the particular role you applied for;
-  - to assess your eligibility for any role that we might have available;
-  - to schedule, arrange and administer events and meetups in which you have expressed an interest (including creating an attendance record for the event and sending anonymised data to the venue including attendees, dietary requirements and accessibility requirements);
-  - to document the copyright and other rights granted with contributions made under our CLA;
-  - to use data in connection with legal claims, compliance, regulatory and investigative purposes as necessary (including disclosure of such information in connection with legal process or litigation); and
-  - Information we receive from other sources: We will combine this information with information you give to us and information we collect about you. We will use this information and the combined information for the purposes set out above (depending on the types of information we receive).
+7\) more detailed contact preferences; 
 
-  Where you give us consent:
-  - we or our carefully selected partners will send you direct marketing in relation to our relevant products and services, or other products and services provided by us, our affiliates and carefully selected partners. However, we will only provide you with marketing related information after you have, where legally required to do so, opted in to receive those communications and having provided the opportunity for you to opt out at any time.
-  - we place cookies and use similar technologies in accordance with our Cookies Policy and the information provided to you when those technologies are used
-  - on other occasions where we ask you for consent. We will use the data for the purpose which we explain at that time.
+8\) location data. 
 
-  For purposes which are required by law:
-  - In response to requests by government or law enforcement authorities conducting an investigation.
+1.1.3 By giving us this data, you consent to this data being stored by us, as described in our Terms and this Privacy Policy. 
 
-## Relying on our legitimate interests
+1.2 **Data that we collect automatically** 
 
-We have carried out balancing tests for all the data processing we carry out on the basis of our legitimate interests, which we have described above. You can obtain information on any of our balancing tests by contacting us using the details set out later in this notice.
+1.2.1 We collect data from every visitor and customer of the Website, in particular we automatically collect data about your visit to the Website, your usage of the Services and your app and website browsing activities. This anonymized information may include IP address, browser type, browser language, cookies data, performance specifications of the user’s hardware and software, date and time of access to the Website and the URL of the page requested, other information about how you interacted with our Website and our Services.
 
-## Withdrawing consent or otherwise objecting to direct marketing
+**1.3 Data from your use of the Services** 
 
-Wherever we rely on your consent, you will always be able to withdraw that consent, although we may have other legal grounds for processing your data for other purposes, such as those set out above. In some cases, we are able to send you direct marketing without your consent, where we rely on our legitimate interests. Once we have received notification that you have withdrawn your consent, we will no longer process your information for the purpose(s) to which you originally consented unless there is no other legal ground for the processing.
+1.3.1 We may receive data about how and when you use the Services, store it in log files or other types of files associated with your account, and link it to other information we collect about you. This data may include, for example, your IP address, time, date, browser used, and actions you have taken within the Website. This type of data helps us to improve our Services for both you and for all of our users. 
 
-You have an absolute right to opt-out of direct marketing, or profiling we carry out for direct marketing, at any time. You can do this by following the instructions in the communication where this is an electronic message, or by contacting us using the details set out below.
+**1.4 Cookies and tracking** 
 
-## Who will we share your data with, where and when?
+1.4.1 Cookies are small data files that are placed on your computer or mobile device when you visit a website. Website owners use cookies to make their websites operate, improve functionality and user experience, as well as to provide reporting information. 
 
-We will share your personal information with:
+1.4.2 We may set our own cookies and use third parties cookies (e.g. for advertising, interactive content and analytics). 
 
-- Any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries for :
-  - website maintenance and security; and
-  - recruitment and hiring
-- Selected third parties including but not limited to:
-  - business partners and sub-contractors for the performance of any contract we enter into with them or you;
-  - our newsletter service provider for the purposes of providing you with our newsletter;
-  - event organisation service providers for the purposes of scheduling and arranging events and meetups in which you have expressed an interest;
-  - our applicant tracking system service provider for the purposes of assessing your application for a role at Parity; and
-  - third party developers for and / or providers of website hosting and maintenance.
+1.4.3 We use different types of cookies, including: 
 
-We will also disclose your personal information to third parties:
+1\) **Essential website cookies**: these are important cookies as they are necessary to provide you with services available through our Website, such 
 
-- In the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets.
-- If Parity Technologies Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-- If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of Parity Technologies Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+as access to secure areas. 
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA (in our case the US) who works for us or for one of our suppliers.
+2\) **Performance and functionality cookies**: these cookies are necessary to enhance the performance and functionality of our Website but are 
 
-Where information is transferred outside the EEA, and where this is to a stakeholder or vendor in a country that is not subject to an adequacy decision by the EU Commission, data is adequately protected by EU Commission approved standard contractual clauses, an appropriate Privacy Shield certification or a vendor's Processor Binding Corporate Rules. A copy of the relevant mechanism can be provided for your review on request to admin@parity.io.
+non-essential to their use. However, without these cookies, certain 
 
-Our Sites may, from time to time, contain links to and from the websites of our partner networks, and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+functionality may become unavailable. 
 
-## Your rights
+3\) **Analytics and customization cookies**: these cookies collect information that is used either in aggregate form to help us understand how our 
 
-You have the right to **ask us for a copy** of your personal data; to **correct**, **delete** or **restrict** (stop any active) processing of your personal data; and to **obtain the personal data you provide to us for a contract or with your consent in a structured, machine readable format**, and to ask us to **share (port) this data to another controller**.
+Website is being used or how effective our marketing campaigns are, or to 
 
-In addition, you can **object to the processing** of your personal data in some circumstances (in particular, where we don’t have to process the data to meet a contractual or other legal requirement).
+help us customize our Website for you in order to enhance your 
 
-These **rights may be limited**, for example if fulfilling your request would reveal personal data about another person, where they would infringe the rights of a third party (including our rights) or if you ask us to delete information which we are required by law to keep or have compelling legitimate interests in keeping. Relevant exemptions are included in the GDPR. We will inform you of relevant exemptions we rely upon when responding to any request you make.
+experience. 
 
-To exercise any of these rights, or to obtain other information, such as a copy of a legitimate interests balancing test, you can get in touch with us using the details set out under the Section “**Contact**” below. If you have unresolved concerns, you have the **right to complain** to an EU data protection authority where you live, work or where you believe a breach may have occurred.
+4\) **Advertising cookies**: these cookies are used to make advertising messages more relevant to you. They perform functions like preventing the same ad 
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at admin@parity.io.
+from continuously reappearing, ensuring that ads are properly displayed, 
 
-## Which entity is my data controller, and which affiliates might my data be shared with?
+and in some cases selecting advertisements that are based on your 
 
-The data controller for your information is Parity Technologies Limited of c/o IGNITION LAW Moray House, Floor 1, Moray House, 23-31 Great Titchfield Street, London, United Kingdom, WC1W 7PA.
+interests. 
 
-Your data might be shared with our group company Parity Technologies Deutschland GmbH, Glogauer Str. 6, 10999, Berlin, Germany for recruiting purposes and for the management of group functions.
-How long will you retain my data?
+5\) **Stripe\_mid and Stripe\_sid**: these are cookies that enable the process of card transactions on the Website. The transaction is made by Stripe 
 
-Where you are a contributor, customer or a registered user, we will keep your information for the duration of any contractual relationship you have with us, and, to the extent permitted, after the end of that relationship for as long as necessary to perform the purposes set out in this notice.
+without storing any credit card information. 
 
-Where we process personal data with your consent, we process the data until you ask us to stop and for a short period after this (to allow us to implement your requests). We also keep a record of the fact that you have asked us not to process your data indefinitely so that we can respect your request in future.
+1.4.4 You may opt out from cookies at any time by customizing your cookie preferences. However, in some cases we will not be able to provide you with all services. 
 
-For data about your visits to our Sites and where we process personal data for Sites security purposes, we will retain this data for 12 months following your last visit of our Sites.
+**1.5 Web beacons and similar technologies** 
 
-Data you provided to us in the course of your job application will be kept for 6 months, if your application was not successful. If you enter in an employment relationship with us, the relevant information will be kept for the duration of the employment contract as part of your personnel file.
+1.5.1 Apart from cookies, we use other similar technologies, like web beacons, to monitor traffic, deliver and communicate with cookies, improve site performance. Similar to cookies you may opt out from web beacons at any time. If you wish to opt out of this processing activity, please contact us at token\@trait.tech with the subject named “Privacy Policy”. 
 
+**1.6 Data from third party sources**
 
-Laws may require us to hold certain information for specific periods. In other cases, we may retain data for an appropriate period after any relationship with you ends to protect itself from legal claims, or to administer its business.
+1.6.1 We may receive some information about you, such as name, email address, demographic information, IP address, location, and use of social media websites, from third parties. 
 
-## How you protect my data
+**1.7 Opting-Out** 
 
-We strive to maintain the highest standards of security and Parity has put in place robust technical and organizational measures for the protection of your data in accordance with the current, general state of the art technologies, especially to protect the data against loss, falsification or access by unauthorized third persons. However the transmission of information via the internet is not completely secure. So, whilst we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Sites. Any transmission is at your own risk. Once we have received your personal data we will use strict procedures and security features to prevent unauthorized access.
+1.7.1 You may decline to have your personal data collected via third party tracking technologies by navigating to the settings feature in your browser and declining all third party cookies or declining third party cookies from specific sites, or, for mobile, limiting ad tracking or resetting the advertising identifier via the privacy settings on your mobile device. 
 
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Sites, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+1.7.2 If your browser does not permit you to block any cookies and similar technologies, you can use the following third party tools to decline the collection and use of information for the purpose of serving your interest based advertising: 
 
-## Cookie-policy
+- The NAI’s opt-out platform: http\://www\.networkadvertising.org/choices/ 
+- The EDAA’s opt-out platform http\://www\.youronlinechoices.com/ 
+- The DAA’s opt-out platform: http\://optout.aboutads.info/?c=2\&lang=EN 
 
-Cookies are small text files that are placed on your computer by the websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. The use of cookies is now standard for most websites. If you are uncomfortable with the use of cookies, you can manage and control them through your browser, including removing cookies by deleting them from your ‘browser history’ (cache) when you leave the site. See the subsection “How to manage cookies” for further information
+**2. Minors** 
 
-## Necessary cookies
+2.1. Minors and children under the age of 16 (or other legal age of your country of residence) should not use our Services. If you are 13 years of age up to 16, you need to obtain a written parental or guardian consent, unless the law of the country of your residence prescribes higher age requirements, in which case you need to meet such requirements. We do not knowingly provide any Services to minors. If you access our Services, you represent that you have the legal capacity to enter into a binding agreement. 
 
-The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. To set all other types of cookies we need your permission. Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+**3. Use of the Data** 
 
-## Parity Technologies’ use of cookies
+3.1. We only use your personal data for the following purposes: 
 
-The only cookie set on Parity Technologies’ websites is the "cfduid" cookie. This cookie is set by a third party, CloudFlare (a content delivery network service), and is necessary for the website to function properly as it is used to identify trusted web traffic. It does not correspond to any user ID in the web application, nor does the cookie store any personally identifiable information. In addition, it’s a “first-party” cookie bound to Parity’s hostname and not accessible from anywhere else, which makes it unusable for tracking purposes. Where technically possible it is also marked as “Secure” which would only allow its transmission over encrypted channels. [https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-CloudFlare-cfduid-cookie-do-](https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-CloudFlare-cfduid-cookie-do-)
+3.1.1 to provide you with the Services that you requested; 
 
-This cookie expires after 1 year.
+3.1.2 to promote the use of our Services to you; 
 
-## How to manage cookies
+3.1.3 to analyze and improve Trait Tech Services; 
 
-Current versions of web browsers offer enhanced user controls regarding the placement and duration of both first and third party cookies. Search for "cookies" under your web browser's “Help menu” for more information on cookie management features available to you. You can enable or disable cookies by modifying the settings in your browser. You can also find out how to do this, and find more information on cookies at www.allaboutcookies.org. However, if you choose to disable cookies in your browser, you may be unable to complete certain activities on our Sites or to correctly access certain parts of it. If you would like more information about interest-based advertising, including how to opt-out of these cookies, please visit [ http://youronlinechoices.eu/](http://youronlinechoices.eu/).
+3.1.4 to send you informational and promotional content that you may subscribe to or unsubscribe; 
 
-## Changes to our privacy policy
+3.1.5 to bill and collect money for Services ordered; 
 
-Any changes we make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy.
+3.1.6 to send you notifications, including notifications on change of our Services; 
 
-## Contact
+3.1.7 to communicate with our customers about our Website and Services and provide customer support in response to their inquiries; 
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to admin@parity.io or by writing to Parity Technologies Limited of c/o IGNITION LAW Moray House, Floor 1, Moray House, 23-31 Great Titchfield Street, London, United Kingdom, WC1W 7PA.
+3.1.8 to enforce compliance with our Terms and applicable law; 
 
-# Supplemental privacy notice for event participants
+3.1.9 to protect our rights and safety as well as the rights and safety of our customers and third parties; 
 
-"We", "our", "Parity" – refers to Parity Technologies Limited.
+3.1.10 to meet legal requirements; 
 
-This notice supplements our Privacy Notice and describes how we collect, use, share and retain additional personal data collected when you participate in a Parity event (whether as an attendee, guest, or speaker), and how to access and control this additional data. Please let us know if you have any questions about this supplemental notice.
+3.1.11 to provide information to representatives and Service Providers; 
 
-## What additional data do we collect from you:
+3.1.12 to prosecute and defend a court, arbitration, or similar legal proceeding;
 
-### Event registration
+3.1.13 to respond to lawful requests by public authorities, including to meet national security or law enforcement requirements; 
 
-When you register to participate in a Parity event we will collect some or all of the following information from you directly or we will receive it from Eventbrite or Meetup:
+3.1.14 to provide, support, and improve the Services we offer; 
 
-- Name
-- Meetup or Eventbrite profile link
-- Organisation
-- Email address
-- Dietary requirements
-- Accessibility requirements
+3.1.15 to provide suggestions about products or services that you may be interested in and which you may opt out; 
 
-When you book an event through Eventbrite or Meetup you will also have to agree to their terms and conditions of service. Please note that Eventbrite and Meetup are third-party services that are not owned or managed by Parity. This policy only refers to the way Parity will use your information.
+3.1.16 to transfer your information in the case of a sale, merger, consolidation, liquidation, reorganization, or acquisition. 
 
-If you wish to attend one of our events but do not wish to use Eventbrite or Meetup to book a place, please contact the event organiser. Contact details for each event are provided on the event booking page.
+**4. Sharing of Data** 
 
-### Event photography and audio / video recordings
+4.1 We do not share personal information you have provided to us without your consent, unless: 4.1.1 Doing so is appropriate to carry out your own request; 
 
-We frequently take photos and record audio and/or video at our events. If so, we may make and store photographs containing your likeness and recordings of your voice and likeness. We may associate your image and the sound of your voice with your name if you are identified during the recording or identify yourself by name.
+4.1.2 We believe it is needed to enforce our Terms, or if it is legally required; 
 
-If you do not want your photograph to be taken or to be featured in video or audio of an event please let a member of our team know.
+4.1.3 We believe it is needed to detect, prevent or address fraud, security or technical issues; 
 
-## What we do with this additional data and why:
+4.1.4 Otherwise protect our property, legal rights, or that of others. 
 
-### Event registration data
+4.2 Trait Tech is operated from the Republic of Singapore. If you are visiting the Website or Services from outside of Singapore, you agree to any processing of any personal information you provide us according to this policy. 
 
-We may use this information for the purposes of scheduling, organising and administering the event, this includes but is not limited to:
+4.3 We don't share your personal information with third parties, except for people and other entities that perform certain tasks on our behalf and who are under our control (our “Service Providers”). We may need to share personal information with our Service Providers in order to provide products or services to you. Unless we tell you differently, our Service Providers do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of personal information with our Service Providers. Our Service Providers are:
 
-- registering you to attend the event;
-- sending you an email to you to confirm your registration and provide you with updates regarding the event;
-- tracking and administering dietary and accessibility requirements; and
-- organising and arranging an appropriate venue and refreshments.
+|        |                              |                                 |                                                |
+| :----: | :--------------------------: | ------------------------------- | ---------------------------------------------- |
+| **#**  |       **Entity Name**        | **Webpage**                     | **Purpose**                                    |
+|   1.   |          Google LLC          | https\://analytics.google.com/  | We use Google Analytics for analytical purpose |
+|   2.   |        Amplitude Inc.        | https\://amplitude.com          | For analytical purpose                         |
+|   3.   |         Stripe, Inc.         | https\://stripe.com/            | For payment processing                         |
+|   4.   | Wise / Wise Payments Limited | https\://wise.com               | For payment processing                         |
 
-### Event photography and audio or video recordings
+****
 
-We may use, edit, copy, exhibit, publish, or distribute photos and audio or video recording from our events for the purposes of promoting our events and Parity.
-When we share this additional data
+|     |                                |                       |                                               |
+| :-: | ------------------------------ | --------------------- | --------------------------------------------- |
+| 5.  | Sumsub / Sum and Substance Ltd | https\://sumsub.com/  | For customer verification to comply with laws |
+| 6.  | Onfido Ltd                     | https\://onfido.com   | For customer verification to comply with laws |
 
-### Event registration data
+****
 
-Unless otherwise stated we use Meetup or Eventbrite to manage online registration for our events. We may share your personal data with Meetup or Eventbrite (or an alternative service provider), event partners (including but not limited to: event space providers, caterers and security service providers) and partner organisations (for example partners with whom we are joint hosting or presenting) as needed to provide you with information and services associated with the event and so as to administer the event itself.
+4.4 Only aggregated, anonymized data is periodically transmitted to external services to help us improve the Website and Services. To receive the current list of external services that we use for this purpose, please email at token\@trait.tech. 
 
-### Event photography and audio or video recordings
+**5. Safeguarding your Personal Data** 
 
-We may publish our or distribute photos and audio or video recording from our events via social media, including Twitter, Telegram, and LinkedIn. In doing so we will share those photos, audio or video with those services and their users.
+5.1 The protection of your personal data is vital to us. We take commercially reasonable measures to protect your personal data from loss, misuse and unauthorized access, disclosure, alteration, and destruction, considering the risks involved in the processing and the nature of the personal data, thanks to the use of the following technologies: 
 
-## How long do we retain your data?
+⎯ SSL certificates, 
 
-### Event Registration Data
+⎯ Two-factor authentication. 
 
-If you have informed us that you wish to be contacted about future events we will keep your data until you tell us that you no longer wish to be contacted. We will check from time to time that you still wish to hear from us. If you have informed us that you do not wish to be contacted about events we will delete your information within eight weeks of the event.
+5.2 Our employees, contractors and any business partners can access personal data on a need-to-know basis, and under a strict duty of maintaining confidentiality. We use encryption for sensitive information, and we test our system on a regular basis to ensure we comply with industry practices and standards. 
 
-Event photography and audio or video recordings
+5.3 While we strive to use commercially acceptable means to protect your personal data, no method of transmission over the Internet, or method of electronic storage, is completely secure, and we cannot guarantee the absolute security of any data. 
 
-Any photos and audio or video recording from our events that we choose not to use for the purposes of promoting our events and Parity will be deleted within eight weeks of the event.
+5.4 You agree to protect the security of your login information and password and not to transfer such information to any third party. We will not be liable to you for the use of your account by any third party. 
 
-## Changes to this supplemental policy
+5.5 If you become aware of any unauthorized use of your account, you shall immediately notify us in writing. 
 
-We keep this policy under regular review and we will post any updates on this webpage.
+**6. Access to your Personal Data** 
 
-## How to contact us
+6.1 You may access your personal data held by us to correct, update, and remove inaccurate or incorrect data. You have the following rights: 
 
-Please contact us at admin@parity.io if you have any questions about this supplemental policy or the information we hold about you.
-Statutory information
+6.1.1 delete some or all personal data that we held about you; 
 
-# Statutory information about Parity Technologies Limited:
+6.1.2 change or correct your personal data that we held about you; 
 
-- Registered in England and Wales
-- Registered Number: 09760015
-- Registered Office: Ignition Law, Moray House Floor 1, 23-31 Great Titchfield Street, London, United Kingdom, WC1W 7PA.
+6.1.3 object to, or limit or restrict, use of your personal data; 
+
+6.1.4 right to access and/or take your personal data: you can ask us for a copy of your personal information in machine readable form; 
+
+6.1.5 access information we hold about you.
+
+6.2 If you request us to view, change and remove your data associated with your account, please contact us at token\@trait.tech. We will process your request within 15 business days. In accordance with the applicable laws, additional fees may be applied. 
+
+**7. Changes to the Privacy Policy** 
+
+7.1 We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make major changes in the way we collect or use information, we will notify you by posting an announcement on the Website or sending you an email. 
+
+**8. Merge of Company** 
+
+8.1 If Trait Tech merges with, or is acquired by, another company or organization, or sells all or a portion of its assets, your personal data may be disclosed to our advisers and any prospective purchaser or any prospective purchaser’s adviser and may be among the assets transferred. However, personal data will always remain subject to this Privacy Policy. 
+
+**9. Data Retention** 
+
+9.1 We retain your personal data primarily within the Republic of Singapore. We retain your personal data for as long as we need it to fulfil the purposes for which we originally collected it or as needed to provide with the Services, except if required otherwise by law. In some cases we may determine the period of data retention based on the period we need to access the data for the provision of services, receiving payment, or for any other auditing or legal purposes. 
+
+9.2 Countries where we process information may have laws that are different, and potentially not as protective, as the laws of your own country, though we will always comply with the applicable laws when we process any information. 
+
+**10. Contact us** 
+
+10.1 Should you have any questions or concerns, please email us at support\@trait.tech.
 						""".toRichTextStr()
 	)
 }
