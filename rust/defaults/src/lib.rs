@@ -127,7 +127,7 @@ struct DefaultNetworkInfo {
 fn default_network_info() -> [DefaultNetworkInfo; 1] {
     [
         DefaultNetworkInfo {
-            address: String::from("ws://asset-hub-bootnode-2.nodes.trait.tech:15400"),
+            address: String::from("wss://rpc-1.trait.tech"),
             base58prefix: 5335,
             color: String::from("#000"),
             decimals: 12,

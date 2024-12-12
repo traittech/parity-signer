@@ -309,7 +309,7 @@
 	<string name="transaction_error_steps_2_core_networks_description"></string>
 	<string name="transaction_error_steps_3_url_parachains"></string>
 	<string name="transaction_error_steps_3_description_parachains"></string>
-	<string name="transaction_error_steps_4_notes_for_other_networks">ask network\'s developers directly if you haven’t found it in the portals</string>
+	<string name="transaction_error_steps_4_notes_for_other_networks">Ask network\'s developers directly if you haven’t found it in the portals</string>
 	<string name="transaction_error_steps_choose_network">Choose the network you need</string>
 	<string name="transaction_error_steps_scan_qr_code">Scan \"Chain spec\" QR to add the missing network</string>
 	<string name="transaction_error_generic_title">Something has gone wrong</string>
